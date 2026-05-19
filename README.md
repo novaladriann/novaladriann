@@ -107,10 +107,8 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/novaladriann/novaladriann/blob/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/novaladriann/novaladriann/output/github-contribution-grid-snake.svg">
 </p>
-
-## 🎮 Pacman Contribution
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/novaladriann/novaladriann/output/pacman-contribution-graph.svg">
