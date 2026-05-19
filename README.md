@@ -3,8 +3,8 @@
 ###
 
 <h3 align="left">Informatics Student | IoT & Web Developer | Software Architecture Enthusiast</h3>
-<p align= "center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=IoT+Developer;Application+Designer;Open+Source+ Learner;Always+Building+&+ Learning" alt="Typing SVG" />  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=IoT+Developer;Application+Designer;Open+Source+Learner;Always+Building+and+Learning" alt="Typing SVG" />
 </p>
 
 
