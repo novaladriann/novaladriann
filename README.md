@@ -3,8 +3,10 @@
 ###
 
 <h3 align="left">Informatics Student | IoT & Web Developer | Software Architecture Enthusiast</h3>
+<p align= "center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=IoT+Developer;Application+Designer;Open+Source+ Learner;Always+Building+&+ Learning" alt="Typing SVG" />  
+</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=IoT+Developer;Application+Designer;Open+Source+ Learner;Always+Building+&+ Learning" alt="Typing SVG" />
 
 
 ###
@@ -115,18 +117,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=novaladriann.novaladriann&"  />
 </div>
 
-###
+## 🐍 Contribution Snake
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+<p align="center">
+<img src="https://github.com/novaladriann/novaladriann/blob/output/github-contribution-grid-snake.svg">
+</p>
 
-###
+## 🎮 Pacman Contribution
+
+<p align="center">
+<img src="https://github.com/novaladriann/novaladriann/blob/output/pacman-contribution-graph.svg">
+</p>
