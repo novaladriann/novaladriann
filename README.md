@@ -104,11 +104,11 @@
 
 ## 🎮 Play games with me
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/novaladriann/novaladriann/output/pacman-contribution-graph.svg">
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/novaladriann/novaladriann/output/github-contribution-grid-snake.svg">
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/novaladriann/novaladriann/output/pacman-contribution-graph.svg">
-</p>
