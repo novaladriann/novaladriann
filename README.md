@@ -102,9 +102,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=novaladriann.novaladriann&"  />
-</div>
+## 🎮 Play games with me
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/novaladriann/novaladriann/output/github-contribution-grid-snake.svg">
