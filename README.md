@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Noval Adrian<</h1>
+<h1 align="left">Hi 👋, I'm Noval Adrian</h1>
 
 ###
 
@@ -123,8 +123,12 @@
 <img src="https://github.com/novaladriann/novaladriann/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+<<<<<<< HEAD
 ## 🎮 Pacman Contribution
 
 <p align="center">
 <img src="https://github.com/novaladriann/novaladriann/blob/output/pacman-contribution-graph.svg">
 </p>
+=======
+###
+>>>>>>> e6f3e3a3d0218723100131f671d85bbd05a7c6ca
