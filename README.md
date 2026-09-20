@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🎓 Informatics student passionate about IoT, software architecture, and web development<br><br>🏗 Interested in designing application structures and system architecture<br><br>🎨 Enjoy creating application interfaces and prototypes using Figma<br><br>⚡ Currently building:<br><br>- Smart Security Room<br>- ChainProof<br><br>📍 Cirebon, West Java, Indonesia</p>
+<p align="left">🎓 Informatics student passionate about IoT, software architecture, and web development<br><br>🏗 Interested in designing application structures and system architecture<br><br>🎨 Enjoy creating application interfaces and prototypes using Figma<br><br>📍 Cirebon, West Java, Indonesia</p>
 
 ###
 
